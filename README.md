@@ -1,5 +1,4 @@
-## Hi👋
-
+## Hi i'm working on front end fundementals atm
 <!--
 **7orde/7orde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

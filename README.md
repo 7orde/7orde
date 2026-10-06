@@ -1,1 +1,1 @@
-## Hi, I'm working on front-end fundamentals at the moment
+## Hi i'm working on front end fundementals atm
